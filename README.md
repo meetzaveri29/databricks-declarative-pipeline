@@ -2,7 +2,7 @@
 
 **Declarative ETL pipeline built with Databricks DLT following Medallion Architecture**
 
-![Data Flow Diagram](path-to-your-diagram.png)
+![Data Flow Diagram](docs/dlt-pipeline-flow.png)
 
 ## 🎯 What This Does
 
